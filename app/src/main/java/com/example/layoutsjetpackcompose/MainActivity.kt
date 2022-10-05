@@ -193,7 +193,7 @@ fun HomeScreen(modifier: Modifier = Modifier) {
         }
     }
 }
-// Step: Bottom navigation - Material
+//Bottom navigation - Material
 @Composable
 private fun SootheBottomNavigation(modifier: Modifier = Modifier) {
     BottomNavigation(
